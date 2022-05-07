@@ -6,17 +6,17 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Deliverable 1: Preprocessing Data for a Neural Network Model
 ### Part 1: Open the file in pandas dataframe:
-![](https://github.com/Beetleee/Credit_Risk_Analysis/blob/main/Resources/Plot1.png)
+![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot1.png)
 ### Part 2: Drop the EIN and Name Columns in the dataset:
-![](https://github.com/Beetleee/Credit_Risk_Analysis/blob/main/Resources/Plot2.png)
+![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot2.png)
 ### Part 3: Determine the unique datapoints for each column:
-![](https://github.com/Beetleee/Credit_Risk_Analysis/blob/main/Resources/Plot3.png)
+![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot3.png)
 ### Part 4: Density Plot (to create a cut-off point to bin “rare” categorical variables in a new column “other”):
-![](https://github.com/Beetleee/Credit_Risk_Analysis/blob/main/Resources/Plot4.png)
+![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot4.png)
 ### Part 5: Merge the one-hot encoding dataframe with the original and drop the originals:
-![](https://github.com/Beetleee/Credit_Risk_Analysis/blob/main/Resources/Plot5.png)
+![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot5.png)
 ### Part 6: Split the preprocessed data into features and target arrays, and then into training and testing datasets, then standardize numerical variables using StandardScaler:
-![](https://github.com/Beetleee/Credit_Risk_Analysis/blob/main/Resources/Plot6.png)
+![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot6.png)
 -------------------------------------------------------------------------------------------------------------------------------
 ## Deliverable 2: Compile, Train, and Evaluate the Model
 ### Part1: 
