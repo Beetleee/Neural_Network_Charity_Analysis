@@ -31,11 +31,11 @@
 ## Deliverable 3: Optimize
 ### We tried an additional 2 times to optimize the model.  The second time we ran the network, we increased the number of neurons on both of the hidden layers, and added a third hidden layer “ReLU” (AlphabetSoupCharity-Copy1)
 ![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot11.png)
-Unfortunately we did not increase the efficiency:
+### Unfortunately we did not increase the efficiency:
 ![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot12.png)
 ### The last time we ran the network, we increased the number of neurons on the hidden layers (AlphabetSoupCharity-Copy2)
 ![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot13.png)
-Unfortunately we did not increase the efficiency:
+### Unfortunately we did not increase the efficiency:
 ![](https://github.com/Beetleee/Neural_Network_Charity_Analysis/blob/main/Resources/Plot14.png)
 ## Summary
-The deep learning neural network model did not reach the target of 75% accuracy. Recommendations would be to utilize a Random Forest Classifier (since we have a binary classification situation). This would combine multiple decision ‘trees’ in order to generate a classified output and test/analyze its performance against our model.
+### The deep learning neural network model did not reach the target of 75% accuracy. Recommendations would be to utilize a Random Forest Classifier (since we have a binary classification situation). This would combine multiple decision ‘trees’ in order to generate a classified output and test/analyze its performance against our model.
