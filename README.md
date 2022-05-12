@@ -1,5 +1,4 @@
 # Module 19 Neural Network Modeling  
-https://github.com/bsamimi25/Neural_Network_Charity_Analysis/blob/main/Optimization.ipynb
 
 ### by Terra Lasho 
 ## Overview of the Analysis: For this project, I have created a deep learning model for AlphabetSoup, using knowledge of machine learning and neural networks.  I used a dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by AlphabetSoup.
